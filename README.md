@@ -84,6 +84,7 @@ Monitoring, orchestration, and visual interfaces for OpenClaw.
 Docker images, one-click deploy setups, Helm charts, and hosting configurations.
 
 * [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - Full-control VPS panel with one-click OpenClaw deployment (Go)
+* [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - NVIDIA's reference stack for running OpenClaw inside a secure sandbox with the NVIDIA Agent Toolkit and Nemotron models
 * [bfzli/clawhost](https://github.com/bfzli/clawhost) - Deploy OpenClaw in one click
 * [coollabsio/openclaw](https://github.com/coollabsio/openclaw) - Fully featured & automated OpenClaw Docker images
 * [essamamdani/moltbot-coolify](https://github.com/essamamdani/moltbot-coolify) - OpenClaw packaged for one-click deployment on Coolify
@@ -107,6 +108,7 @@ Bridges, adapters, and integrations that extend OpenClaw into other platforms.
 * [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) - Secure bridge between Claude.ai and your self-hosted OpenClaw assistant with OAuth2 authentication
 * [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you — supports OpenClaw, Claude, Codex, and more (Python)
 * [qwibitai/nanoclaw-telegram](https://github.com/qwibitai/nanoclaw-telegram) - NanoClaw Telegram channel integration
+* [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) - Windows companion suite for OpenClaw — system tray app, PowerToys Command Palette extension, and shared gateway client library (C#)
 * [rookiestar28/ComfyUI-OpenClaw](https://github.com/rookiestar28/ComfyUI-OpenClaw) - Personal AIGC factory — integrates OpenClaw with ComfyUI for AI image and video generation
 * [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - Super AI assistant with active thinking and task planning, supports WeChat, DingTalk, Feishu, QQ, and more (Python)
 
